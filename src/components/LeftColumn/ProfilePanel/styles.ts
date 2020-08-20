@@ -44,6 +44,7 @@ export const Container = styled.div`
     font-size: 12px;
     margin: 0 12px;
     font-weight: 600;
+    margin-bottom: 5px;
 
     .key {
       color: var(--color-gray);

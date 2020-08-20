@@ -20,16 +20,16 @@ const FeedPost: React.FC = () => {
     <Panel>
       <Container>
         <Row className="heading">
-          <Avatar src="https://i.imgur.com/81RtXfT.jpg" alt="Rocketseat" />
+          <Avatar src="https://media-exp1.licdn.com/dms/image/C5603AQHv9IK9Ts0dFA/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=M9UqsXMq5GNcHLbShtSJklzQalDbvTyBD7s43T_HDvc" alt="Gates" />
           <Column>
-            <h3>Rocketseat</h3>
-            <h4>Instituição de ensino</h4>
-            <time>1 sem</time>
+            <h3>Bill Gates</h3>
+            <h4>Co-chair, Bill & Melinda Gates Foundation</h4>
+            <time>1 week</time>
           </Column>
         </Row>
 
         <PostImage
-          src="https://blog.rocketseat.com.br/content/images/2019/05/Painel.png"
+          src="https://media.gatesnotes.com/-/media/Images/Articles/About-Bill-Gates/Year-in-Review-2018/EOY_2018_TGN_Article_Hero_v2.ashx"
           alt="Rocketseat Blog"
         />
 
